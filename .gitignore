@@ -1,0 +1,7 @@
+.DS_Store
+commit-message.txt
+contact-entry.json
+
+runner/
+target/
+src/main/resources/poemspace-dump.json
